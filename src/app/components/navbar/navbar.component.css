@@ -1,0 +1,33 @@
+li{
+  background-color: #FFB500;
+  margin: 10px;
+  border: 1px solid black;
+  max-height: 100px;
+  letter-spacing: 5px;
+}
+li:hover{
+ 
+  
+  background-color: #ffffff;
+  border: 1px solid white;
+}
+li a:hover{
+  color: #FA4421;
+  
+}
+ul{
+  margin: 10px;
+}
+nav div a img {
+  width: 150px;
+}
+nav{
+  background-color: #FA4421; 
+  border-bottom: 1px solid black;
+}
+@media (max-width: 500px ) {
+  
+  li{
+    padding-left: 10px;
+  }
+}

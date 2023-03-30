@@ -1,0 +1,62 @@
+
+.title{
+    background-color: #FA4421;
+    
+  
+}
+h5{
+    color: white;
+}
+h4{
+    padding: 15px;
+}
+.form{
+    background-color: #FFB500;
+    box-shadow:
+     0 -3em 3em rgba(0,0,0,0.1),
+
+          0.3em 0.3em 1em rgba(0,0,0,0.3);
+}
+
+input, .form-control {
+    border:none;
+    border-radius: 0;
+}
+.form-control {
+margin-top: 5px;
+}
+
+.btn {
+    background-color: #0068FF;
+    border-radius: 0%;
+}
+.card, .card-body{
+    border-radius: 0;
+}
+label{
+    color: white;
+}
+.success{
+   
+    text-align: center;
+ 
+}
+.success span{
+    color: white;
+    padding: 10px;
+    background-color: green;
+    box-shadow: 2px 2px 2px rgb(255, 255, 255);
+}
+.error{
+    color: white;
+    text-align: center;
+    font-weight: bold;
+}
+.error span {
+    background-color: rgb(255, 0, 0);
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px rgb(247, 247, 247);
+ 
+}
+
